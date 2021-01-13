@@ -50,3 +50,12 @@ Así como en programación las entidades tienen atributos que la describen, como
 - Motor
 - Modelo
 
+**Atributo Único o Llave**
+Este atributo es único y existen dos tipos de llaves, los naturales y artificiales:
+- Naturales: Son aquellos valores que vienen dentro de la naturaleza del objeto, como ejemplo: El no de serie de un equipo, El DPI de una persona
+- Artificiales: Son valores creados arbitrariamente por el usuario para diferenciar los objetos como un codigo aleatorio pero único.
+
+Existen dos tipos de entidades: Fuertes y Débiles
+- Entidades Fuertes: Son entidades que pueden existir ellas solas
+- Entidades Débiles: Únicamente pueden existir gracias a una entidad fuerte, se complementa.
+
