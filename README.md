@@ -44,3 +44,9 @@ Una entidad es algo similar a un objeto como en programación, representa algo e
 - Entidad Manzana
 - Entidad Automóvil
 
+Así como en programación las entidades tienen atributos que la describen, como por ejemplo los atributos de un automóvil pueden ser:
+- Volante
+- Llantas
+- Motor
+- Modelo
+
