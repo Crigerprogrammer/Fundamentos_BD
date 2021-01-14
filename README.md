@@ -82,3 +82,23 @@ Cuando existe un atributo multi, a veces se convierten en entidades porque tiene
 
 ## Diagrama ER
 Funciona para realizar un mapa, se construye antes de crear la base de datos, para saber cuales entidades tenemos, y cual es el papel de cada entidad.
+
+## Tipos de Datos y Constraints
+**Tipos de Datos**:
+- Texto:
+    - CHAR(n)
+    - VARCHAR(n)
+    - TEXT
+- Números:
+    - INTEGER
+    - BIGINT
+    - SMALLINT
+    - DECIMAL
+    - NUMERIC
+- Fecha/Hora:
+    - DATE
+    - TIME
+    - DATETIME
+    - TIMESTAMP
+- Lógicos:
+    - BOOLEAN
