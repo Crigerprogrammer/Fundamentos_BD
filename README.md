@@ -59,3 +59,11 @@ Existen dos tipos de entidades: Fuertes y Débiles
 - Entidades Fuertes: Son entidades que pueden existir ellas solas
 - Entidades Débiles: Únicamente pueden existir gracias a una entidad fuerte, se complementa.
 
+## Relaciones
+Es la manera de ligar las diferentes entidades o objetos.
+*Ejemplo:*
+Las relaciones se representan con un rombo 
+Las relaciones se relacionan con verbos 
+
+¿Como funcionan?: 
+Por ejemplo, un dueño **tiene** un automovil
