@@ -72,8 +72,10 @@ Un jugador **pertenece** a un equipo
 Cuando existe un atributo multi, a veces se convierten en entidades porque tienen vida propia
 
 ### Cardinalidad
-Cardinalidad 1 a 1, ejemplo: 1 persona tiene 1 serie de contacto.  
+- Cardinalidad 1 a 1, ejemplo: 1 persona tiene 1 serie de contacto.  
 
-Cardinalidad 0 a 1, es una cardinalidad opcional ejemplo: sesion_actual tiene 1 usuario , pero un usuario tiene 0 sesion_actual 
+- Cardinalidad 0 a 1, es una cardinalidad opcional ejemplo: sesion_actual tiene 1 usuario , pero un usuario tiene 0 sesion_actual 
 
-Cardinalidad 1 a muchos, ejemplo: una persona puede tener muchos automóviles pero un autómovil solo puede pertenecer una persona
+- Cardinalidad 1 a muchos, ejemplo: una persona puede tener muchos automóviles pero un autómovil solo puede pertenecer una persona
+
+- Cardinalidad muchos a muchos: Esta cardinalidad tiende a ser algo confusa pero un ejemplo sería: Un alumno puede tener muchas clases ó una clase puede tener muchos alumnos
