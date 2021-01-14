@@ -79,3 +79,6 @@ Cuando existe un atributo multi, a veces se convierten en entidades porque tiene
 - Cardinalidad 1 a muchos, ejemplo: una persona puede tener muchos automóviles pero un autómovil solo puede pertenecer una persona
 
 - Cardinalidad muchos a muchos: Esta cardinalidad tiende a ser algo confusa pero un ejemplo sería: Un alumno puede tener muchas clases ó una clase puede tener muchos alumnos
+
+## Diagrama ER
+Funciona para realizar un mapa, se construye antes de crear la base de datos, para saber cuales entidades tenemos, y cual es el papel de cada entidad.
