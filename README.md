@@ -86,19 +86,21 @@ Funciona para realizar un mapa, se construye antes de crear la base de datos, pa
 ## Tipos de Datos y Constraints
 **Tipos de Datos**:
 - Texto:
-    - CHAR(n)
-    - VARCHAR(n)
-    - TEXT
+    - CHAR(n): Reserva en memoria una cantidad especifica para el valor de la cadena o caracteres
+    - VARCHAR(n) : Permite almacenar hasta 255 caracteres
+    - TEXT : Cuando se requiere más de 255 caracteres, TEXT es la mejor opción
 - Números:
-    - INTEGER
-    - BIGINT
-    - SMALLINT
-    - DECIMAL
-    - NUMERIC
+    - INTEGER: Es para números enteros
+    - BIGINT : Es para declarar enteros muy largos 
+    - SMALLINT : Para declarar enteros cortos 
+    - DECIMAL : Es para declarar números complejos (decimales)
+    - NUMERIC : 
 - Fecha/Hora:
-    - DATE
-    - TIME
-    - DATETIME
-    - TIMESTAMP
+    - DATE : Contiene solo fecha
+    - TIME : Contiene solo la hora
+    - DATETIME : Contiene fecha y hora 
+    - TIMESTAMP :
 - Lógicos:
-    - BOOLEAN
+    - BOOLEAN : Solo puede tener dos valores, puede ser 1 o 0. 
+
+
