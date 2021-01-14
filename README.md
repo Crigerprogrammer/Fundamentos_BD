@@ -103,4 +103,13 @@ Funciona para realizar un mapa, se construye antes de crear la base de datos, pa
 - Lógicos:
     - BOOLEAN : Solo puede tener dos valores, puede ser 1 o 0. 
 
+### Constaints (Restricciones)
+Hay diferentes que definen para nuestros atributos:
+- NOT NULL : No se permite que existan valores nulos
+- UNIQUE : Se asegura que cada valor en la columna no se repita
+- PRIMARY KEY : Es una combinación de NOT NULL y UNIQUE
+- FOREIGN KEY : Identifica de manera única una tupla en otra tabla
+- CHECK : Se asegura que el valor en la columna cumpla una condición dad
+- DEFAULT : Coloca un valor por defecto cuando no hay un valor especifico
+- INDEX : Se crea por columna para permitir búsquedas más rapidas
 
