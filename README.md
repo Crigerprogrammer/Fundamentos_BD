@@ -114,5 +114,10 @@ Hay diferentes que definen para nuestros atributos:
 - INDEX : Se crea por columna para permitir búsquedas más rapidas
 
 ## Normalización
-Ayuda a dejar todo en una forma normal, son 12 reglas que nos permite separar cada componente de la base de datos y que se ajuste para que la entidad sea relacional
+Ayuda a dejar todo en una forma normal, son 12 reglas que nos permite separar cada componente de la base de datos y que se ajuste para que la entidad sea relacional 
+
+- **Primera Forma**(1FN): Atributos Atómicos (Sin campos repetidos), 
+- **Segunda Forma**(2FN): Cumple 1FN y cada campo de la tabla debe depender de una clave única.
+- **Tercera Forma Normal** (3FN): Cumple 1FN y 2FN y los campos que NO son clave NO deben tener dependencias.
+- **Cuarta Forma Normal** : (4FN) Cumple 1FN, 2FN, 3FN los campos multivaluados se identifican por una clave única.
 
