@@ -67,3 +67,13 @@ Las relaciones se relacionan con verbos
 
 ¿Como funcionan?: 
 Por ejemplo, un dueño **tiene** un automovil
+Un jugador **pertenece** a un equipo
+
+Cuando existe un atributo multi, a veces se convierten en entidades porque tienen vida propia
+
+### Cardinalidad
+Cardinalidad 1 a 1, ejemplo: 1 persona tiene 1 serie de contacto.  
+
+Cardinalidad 0 a 1, es una cardinalidad opcional ejemplo: sesion_actual tiene 1 usuario , pero un usuario tiene 0 sesion_actual 
+
+Cardinalidad 1 a muchos, ejemplo: una persona puede tener muchos automóviles pero un autómovil solo puede pertenecer una persona
