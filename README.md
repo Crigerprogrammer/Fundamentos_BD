@@ -113,3 +113,6 @@ Hay diferentes que definen para nuestros atributos:
 - DEFAULT : Coloca un valor por defecto cuando no hay un valor especifico
 - INDEX : Se crea por columna para permitir búsquedas más rapidas
 
+## Normalización
+Ayuda a dejar todo en una forma normal, son 12 reglas que nos permite separar cada componente de la base de datos y que se ajuste para que la entidad sea relacional
+
