@@ -121,3 +121,5 @@ Ayuda a dejar todo en una forma normal, son 12 reglas que nos permite separar ca
 - **Tercera Forma Normal** (3FN): Cumple 1FN y 2FN y los campos que NO son clave NO deben tener dependencias.
 - **Cuarta Forma Normal** : (4FN) Cumple 1FN, 2FN, 3FN los campos multivaluados se identifican por una clave única.
 
+## RDB ¿Qué?
+RDBMS (Relational Database Management System) es un programa que nos ayuda a crear las bases de datos (Manejadores de bases de datos) como: MySQL, PostgreSQL
