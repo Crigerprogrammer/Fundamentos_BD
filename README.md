@@ -129,3 +129,4 @@ Basca con descargar el instalador .exe de la página oficial, descargar los recu
 
 ## Clientes gráficos
 MySQL Workbench es una herramienta gráfica que representa como funciona una base de datos, es bien intuitiva, hay diferentes manejadores de bases de datos. 
+CREATE SCHEMA platziblog
