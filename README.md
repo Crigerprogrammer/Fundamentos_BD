@@ -1,4 +1,4 @@
-# Fundamentos de Bases de Datos
+# Fundamentos de Bases de Datos - Curso
 
 ## Historia de la persistencia de la información
 ¿Por qué necesitamos persistencia? 
