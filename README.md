@@ -135,3 +135,7 @@ CREATE SCHEMA platziblog
 Ahora es raro utilizar las bases de datos localmente, ahora se utilizan servicios Cloud que es rentar un servidor para alojar la base de datos. 
 
 ## Historia de SQL
+Structured Query Language (Lenguaje estructurado de consultas)
+SQL Nace cuando las empresas tenían la necesidad de extrar datos de sus bases de datos, tenían diferentes RDBS y no sabían comunicarse o tener un lenguaje en común, por eso mismo SQL nació y planteó bases estructuradas para unificar un lenguaje para consultas de las bases de datos.
+
+NOSQL (Not Only Structured Query Language): No solo utilices SQL, hay manejadores de bases de datos que no son relacionados
