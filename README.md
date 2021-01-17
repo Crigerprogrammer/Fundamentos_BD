@@ -122,7 +122,7 @@ Ayuda a dejar todo en una forma normal, son 12 reglas que nos permite separar ca
 - **Cuarta Forma Normal** : (4FN) Cumple 1FN, 2FN, 3FN los campos multivaluados se identifican por una clave única.
 
 ## RDB ¿Qué?
-RDBMS (Relational Database Management System) es un programa que nos ayuda a crear las bases de datos (Manejadores de bases de datos) como: MySQL, PostgreSQL
+RDBMS (Relational Database Management System) es un programa que nos ayuda a crear las bases de datos (Manejadores de bases de datos) como: MySQL, PostgreSQL, SQLServer entre muchos más
 
 ## Instalación local de un RDBMS
 Basca con descargar el instalador .exe de la página oficial, descargar los recursos necesarios y esperar a que el servidor encienda
