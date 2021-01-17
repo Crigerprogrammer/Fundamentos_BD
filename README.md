@@ -132,6 +132,6 @@ MySQL Workbench es una herramienta gráfica que representa como funciona una bas
 CREATE SCHEMA platziblog
 
 ## Servicios administrados
-
+Ahora es raro utilizar las bases de datos localmente, ahora se utilizan servicios Cloud que es rentar un servidor para alojar la base de datos. 
 
 ## SQL
