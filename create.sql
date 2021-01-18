@@ -14,3 +14,21 @@ CREATE TABLE people(
     adress VARCHAR(255),
     city VARCHAR(255)
 );
+
+-- CREATE VIEWS
+
+CREATE VIEW v_brasil_customers AS 
+SELECT customer_name, contact_name 
+FROM customers 
+WHERE country = 'Brasil';
+
+--- ALTER TABLE
+
+ALTER TABLE people 
+ADD date_of_birth DATE;
+
+ALTER TABLE people
+ALTER COLUMN date_of_birth YEAR;
+
+ALTER TABLE people
+DROP COLUMN date_of_birth;
