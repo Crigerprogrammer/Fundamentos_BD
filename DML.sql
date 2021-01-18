@@ -13,3 +13,9 @@ WHERE city = 'Ciudad';
 
 UPDATE people
 SET first_name = 'Juan';
+
+-- DELETE
+DELETE FROM people
+WHERE id_person = 1;
+
+DELETE FROM people;
