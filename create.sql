@@ -32,3 +32,9 @@ ALTER COLUMN date_of_birth YEAR;
 
 ALTER TABLE people
 DROP COLUMN date_of_birth;
+
+-- DROP
+-- Tabla
+DROP TABLE people;
+-- Base de datos
+DROP DATABASE test_db;
