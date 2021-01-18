@@ -144,4 +144,6 @@ NOSQL (Not Only Structured Query Language): No solo utilices SQL, hay manejadore
 **Data Definition Language** (Create, Alter, Drop), permite crear estructura de una base de datos, las entidades, relaciones. 
 - Create: Funciona para crear, procedimientos, vistas, tablas, indices
 - Alter: Funciona para modificar o alterar valores dentro de una tabla
-- Drop: Ayuda a borrar objetos
+- Drop: Ayuda a borrar objetos, permite borrar tablas, bases de datos o columnas de una tabla 
+
+**¿Que son las vistas?**: Las vistas son una proyección de nuestros datos de forma entendible.
