@@ -15,3 +15,16 @@ CREATE TABLE usuarios(
     nickname VARCHAR(40) NOT NULL UNIQUE, 
     email VARCHAR(40) NOT NULL UNIQUE
 );
+
+CREATE TABLE posts(
+    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    titulo VARCHAR(130) NOT NULL,
+    fecha_publicacion TIMESTAMP,
+    contenido TEXT NOT NULL,
+    estatus CHAR(8) DEFAULT 'activo',
+    usuario_id INT NOT NULL, 
+    categoria_id INT NOT NULL,
+
+    FOREIGN KEY (usuario_id) REFERENCES usuarios(id),
+    FOREIGN KEY (categoria_id) REFERENCES categorias(id)
+);  
