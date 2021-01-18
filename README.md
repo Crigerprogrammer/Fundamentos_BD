@@ -151,7 +151,7 @@ NOSQL (Not Only Structured Query Language): No solo utilices SQL, hay manejadore
 ## DML
 Data Manipulation Language
 **Comandos**:
-- Insert
-- Update
-- Delete
-- Select
+- Insert : Esta sentencia funciona para agregar registros a una tabla
+- Update : Esta sentencia funciona para actualizar valores de registros ya existentes
+- Delete : Esta sentencia funciona para eliminar registros, gracias a la clausula WHERE se puede lograr ser más preciso
+- Select : Esta sentencia funciona para extraer datos de una base de datos
