@@ -147,3 +147,11 @@ NOSQL (Not Only Structured Query Language): No solo utilices SQL, hay manejadore
 - Drop: Ayuda a borrar objetos, permite borrar tablas, bases de datos o columnas de una tabla 
 
 **¿Que son las vistas?**: Las vistas son una proyección de nuestros datos de forma entendible.
+
+## DML
+Data Manipulation Language
+**Comandos**:
+- Insert
+- Update
+- Delete
+- Select
