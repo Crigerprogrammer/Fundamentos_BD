@@ -1,0 +1,17 @@
+CREATE TABLE categorias(
+    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    nombre_categoria VARCHAR(30) NOT NULL
+);
+
+CREATE TABLE etiquetas(
+    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    nombre_etiqueta VARCHAR(30) NOT NULL
+);
+
+CREATE TABLE usuarios(
+    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    login VARCHAR(30) NOT NULL,
+    password VARCHAR(32) NOT NULL,
+    nickname VARCHAR(40) NOT NULL UNIQUE, 
+    email VARCHAR(40) NOT NULL UNIQUE
+);
