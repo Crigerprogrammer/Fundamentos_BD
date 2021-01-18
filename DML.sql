@@ -19,3 +19,7 @@ DELETE FROM people
 WHERE id_person = 1;
 
 DELETE FROM people;
+
+-- SELECT
+SELECT first_name, last_name
+FROM people;
