@@ -28,3 +28,10 @@ CREATE TABLE posts(
     FOREIGN KEY (usuario_id) REFERENCES usuarios(id),
     FOREIGN KEY (categoria_id) REFERENCES categorias(id)
 );  
+
+CREATE TABLE comentarios(
+    id PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    cuerpo_comentario TEXT NOT NULL,
+    usuario_id INT NOT NULL,
+    post_id INT NOT NULL,
+)
