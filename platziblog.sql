@@ -34,4 +34,7 @@ CREATE TABLE comentarios(
     cuerpo_comentario TEXT NOT NULL,
     usuario_id INT NOT NULL,
     post_id INT NOT NULL,
+
+    FOREIGN KEY (usuario_id) REFERENCES usuarios(id),
+    FOREIGN KEY (post_id) REFERENCES posts(id)
 )
