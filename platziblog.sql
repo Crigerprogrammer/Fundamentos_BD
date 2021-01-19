@@ -38,3 +38,9 @@ CREATE TABLE comentarios(
     FOREIGN KEY (usuario_id) REFERENCES usuarios(id),
     FOREIGN KEY (post_id) REFERENCES posts(id)
 )
+
+CREATE TABLE posts_etiquetas(
+    id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    post_id INT NOT NULL,
+    etiqueta_id INT NOT NULL
+)
