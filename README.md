@@ -140,7 +140,7 @@ SQL Nace cuando las empresas tenían la necesidad de extrar datos de sus bases d
 
 NOSQL (Not Only Structured Query Language): No solo utilices SQL, hay manejadores de bases de datos que no son relacionados
 
-## DDL Create
+## DDL Create *
 **Data Definition Language** (Create, Alter, Drop), permite crear estructura de una base de datos, las entidades, relaciones. 
 - Create: Funciona para crear, procedimientos, vistas, tablas, indices
 - Alter: Funciona para modificar o alterar valores dentro de una tabla
