@@ -1,6 +1,6 @@
 # Fundamentos de Bases de Datos - Curso PLATZI
 
-## Historia de la persistencia de la información
+## Historia de la persistencia de la información - Fundamentos
 ¿Por qué necesitamos persistencia? 
 Desde el inicio de los tiempos la humindad a buscado maneras de almacenar datos, ya sea sucesos historicos o situaciones importantes a recordar.  
 
