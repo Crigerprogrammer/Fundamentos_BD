@@ -158,3 +158,6 @@ Data Manipulation Language
 
 **FROM**
 Indica de dónde se deen traer los datos y puede ayudar a hacer sentencias y filtros complejos cuando se quieren unir tablas.
+
+**JOIN**
+Existen diferentes JOIN, como LEFT JOIN o RIGHT JOIN 
