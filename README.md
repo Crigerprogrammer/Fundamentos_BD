@@ -165,4 +165,14 @@ INNER JOIN -- Es la intersección entre dos entidades
 
 **Ejercicios**:
 SELECT * FROM usuarios 
-LEFT JOIN posts ON usuarios.id = posts.usuario_id;
+LEFT JOIN posts ON usuarios.id = posts.usuario_id
+WHERE posts.usuario_id IS NULL;  
+
+SELECT * FROM usuarios
+INNER JOIN posts ON usuarios.id = posts.usuario_id;
+
+
+
+
+
+
