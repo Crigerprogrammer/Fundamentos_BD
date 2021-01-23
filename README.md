@@ -161,3 +161,4 @@ Indica de dónde se deen traer los datos y puede ayudar a hacer sentencias y fil
 
 **JOIN**
 Existen diferentes JOIN, como LEFT JOIN o RIGHT JOIN 
+INNER JOIN -- Es la intersección entre dos entidades    
