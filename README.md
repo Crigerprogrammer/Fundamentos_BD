@@ -155,3 +155,6 @@ Data Manipulation Language
 - Update : Esta sentencia funciona para actualizar valores de registros ya existentes
 - Delete : Esta sentencia funciona para eliminar registros, gracias a la clausula WHERE se puede lograr ser más preciso
 - Select : Esta sentencia funciona para extraer datos de una base de datos
+
+**FROM**
+Indica de dónde se deen traer los datos y puede ayudar a hacer sentencias y filtros complejos cuando se quieren unir tablas.
