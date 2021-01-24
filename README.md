@@ -171,3 +171,5 @@ WHERE posts.usuario_id IS NULL;
 SELECT * FROM usuarios
 INNER JOIN posts ON usuarios.id = posts.usuario_id;
 
+### NESTED QUERIES
+Esto se refiere a cuando se requiere solventar un problema donde se requiere de dos o más queries, por lo que un query puede ser la entrada del segundo para poder solventar el problema.
