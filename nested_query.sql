@@ -6,3 +6,11 @@ FROM (
 ) AS new_table_projection
 GROUP BY new_table_projection.date
 ORDER BY new_table_projection.date;
+
+-- Otro ejemplo
+SELECT * 
+FROM post 
+WHERE fecha_publicacion = (
+    SELECT MAX(fecha_publicacion)
+    FROM posts
+);
