@@ -206,3 +206,5 @@ Son las colecciones que se tienen de inmediato.
 - Timestamp (Almacenar fecha y hora ).
 - Geopoint (Es un tipo de dato para guardar una geolocalización (coordenadas)).
 - Reference (Este tipo de dato permite hacer referencia hacia otro documento).
+
+## Colecciones vs subcolecciones
