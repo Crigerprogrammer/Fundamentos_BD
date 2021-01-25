@@ -211,3 +211,5 @@ Son las colecciones que se tienen de inmediato.
 La particularidad de las top level collections es que existen en el primer nivel de manera intrínseca. Las subcolecciones ya no vivirán al inicio de la base de datos.
 
 Si tienes una entidad separada que vas a referenciar desde muchos lugares es recomendado usar un top level collection. Por el otro lado si se necesita hacer algo intrínseco al documento es aconsejable usar subcolecciones.
+
+### Recreando PLatziblog en FireStone
