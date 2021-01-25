@@ -189,3 +189,8 @@ Todo el mantenimiento, actualizaciones, se le otorgan al administrador cloud.
 **Jerarquía de datos en firestone**:
 - Utiliza colecciones de de documentos ya no tablas como una base de datos relacional tradicional.
 Los documentos que se almacenan se guardan como los archivos JSON. 
+
+### Top Level Collections
+Son las colecciones que se tienen de inmediato.
+**Firebase** Es un servicio que tiene como opciones la administración de base de datos, hacer hosting a sitios web, o aplicaciones móviles.
+**las colecciones son casi igual a las entidades en una base de datos relacional**. 
