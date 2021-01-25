@@ -194,3 +194,15 @@ Los documentos que se almacenan se guardan como los archivos JSON.
 Son las colecciones que se tienen de inmediato.
 **Firebase** Es un servicio que tiene como opciones la administración de base de datos, hacer hosting a sitios web, o aplicaciones móviles.
 **las colecciones son casi igual a las entidades en una base de datos relacional**. 
+
+## Creando y borrando documentos en Firestore
+**Tipos de datos en firestone**
+- String 
+- Number (Acepta integer o decimal)
+- Boolean (Puede ser True o False)
+- Map (Es un tipo de dato que permite guardar un documento dentro del documento actual).
+- Array (Es un tipo de dato para guardar un grupo de datos, menos otro array).
+- Null (Es para tener un campo tipo nulo).
+- Timestamp (Almacenar fecha y hora ).
+- Geopoint (Es un tipo de dato para guardar una geolocalización (coordenadas)).
+- Reference (Este tipo de dato permite hacer referencia hacia otro documento).
