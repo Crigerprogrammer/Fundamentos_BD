@@ -181,3 +181,11 @@ Esto se refiere a cuando se requiere solventar un problema donde se requiere de 
 - Los rubros por los que me interesa agrupar la información  = GROUP BY
 - El orden en que quiero presentar mi información = ORDER BY
 - los filtros que quiere que mis datos agrupados tengan = HAVING
+
+## NOSQL
+### Servicios administrados
+Base de datos Firestone:
+Todo el mantenimiento, actualizaciones, se le otorgan al administrador cloud. 
+**Jerarquía de datos en firestone**:
+- Utiliza colecciones de de documentos ya no tablas como una base de datos relacional tradicional.
+Los documentos que se almacenan se guardan como los archivos JSON. 
