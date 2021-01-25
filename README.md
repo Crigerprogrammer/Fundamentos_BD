@@ -173,3 +173,11 @@ INNER JOIN posts ON usuarios.id = posts.usuario_id;
 
 ### NESTED QUERIES
 Esto se refiere a cuando se requiere solventar un problema donde se requiere de dos o más queries, por lo que un query puede ser la entrada del segundo para poder solventar el problema.
+
+## ¿Cómo convertir una pregunta en un query SQL?
+- Lo que se quiere mostrar = SELECT
+- De donde se tomará los datos = FROM
+- Los filtros de los datos que se quieren mostrar = WHERE
+- Los rubros por los que me interesa agrupar la información  = GROUP BY
+- El orden en que quiero presentar mi información = ORDER BY
+- los filtros que quiere que mis datos agrupados tengan = HAVING
