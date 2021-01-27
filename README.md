@@ -214,3 +214,6 @@ Si tienes una entidad separada que vas a referenciar desde muchos lugares es rec
 
 ### Recreando PLatziblog en FireStone
 Emplear colecciones de nivel cero para entidades fuertes, que mas adelante se empleen para realizar busquedas exhaustivas.
+Emplear subcolecciones para entidades débiles, que solo permitan plasmar información relacionada, pero que dicha data no sea una fuente de consulta primaria para nuestra aplicación.
+
+
