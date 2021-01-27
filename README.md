@@ -1,4 +1,4 @@
-# Fundamentos de Bases de Datos - Curso PLATZI
+# Fundamentos de Bases de Datos Curso PLATZI
 
 ## Historia de la persistencia de la información - Fundamentos
 ¿Por qué necesitamos persistencia? 
