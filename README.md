@@ -213,3 +213,4 @@ La particularidad de las top level collections es que existen en el primer nivel
 Si tienes una entidad separada que vas a referenciar desde muchos lugares es recomendado usar un top level collection. Por el otro lado si se necesita hacer algo intrínseco al documento es aconsejable usar subcolecciones.
 
 ### Recreando PLatziblog en FireStone
+Emplear colecciones de nivel cero para entidades fuertes, que mas adelante se empleen para realizar busquedas exhaustivas.
