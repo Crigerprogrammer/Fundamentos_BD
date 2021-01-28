@@ -231,3 +231,4 @@ Grandes almacenes que tratan de guardar cantidad masivas de datos.
 A diferencia de big data, big data busca solución para devolver datos en milísegundos, mientras que un data warehouse almacena historico. 
 
 Puede almacenar muchos datos (historico) 
+Un datawarehouse en ocasiones no es la mejor solución si se pretende realizar consultas, pero en ocasiones se tiene la intención de consultar información histórica.
