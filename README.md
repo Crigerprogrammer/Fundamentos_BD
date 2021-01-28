@@ -223,4 +223,7 @@ Dentro de las bases de datos relacionales tenemos diferentes niveles de datos. E
 Existen diferentes soluciones para aplicaciones modernas.
 - las bases de datos SQL logró durante muchos años solucionar problemas del mundo, como reportes, querys, almacenas, incluso facebook utilizó MySQL, pero cuando existen millones de datos o billones, las bases de datos SQL tienden a ser poco óptimas, por lo que se generó el término Big Data
 
+## Big Data
+Es un concepto que nace cuando hay grandes cantidades de datos, los primeros que iniciaron esta tendencia fue Youtube, redes sociales como Facebook. 
+
 
