@@ -226,4 +226,8 @@ Existen diferentes soluciones para aplicaciones modernas.
 ## Big Data
 Es un concepto que nace cuando hay grandes cantidades de datos, los primeros que iniciaron esta tendencia fue Youtube, redes sociales como Facebook. 
 
+## Data Warehouse
+Grandes almacenes que tratan de guardar cantidad masivas de datos.
+A diferencia de big data, big data busca solución para devolver datos en milísegundos, mientras que un data warehouse almacena historico. 
 
+Puede almacenar muchos datos (historico) 
