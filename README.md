@@ -235,3 +235,8 @@ Un datawarehouse en ocasiones no es la mejor solución si se pretende realizar c
 
 ## Data Mining
 Es una disciplina que se dedica a minar datos. a extraerlos de donde sea que estén (archivos muertos, bases de datos, actual, etc)
+
+## ETL
+ETL son las siglas de Extract, Transform, Load (extraer, transformar y cargar). Se trata de tomar datos de archivos muertos y convertirlos en algo que sea de utilidad para el negocio.
+También ayuda a tomar los datos vivos de la aplicación, transformarlos y guardarlos en un data warehouse periódicamente.
+
