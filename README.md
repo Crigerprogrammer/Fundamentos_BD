@@ -219,6 +219,8 @@ EMPLEAR subcolecciones para entidades débiles, que solo permitan plasmar inform
 
 Dentro de las bases de datos relacionales tenemos diferentes niveles de datos. En primer lugar tenemos las Bases de Datos o Esquemas como repositorios donde vivirán los datos que nos interesa guardar. Dentro del esquema existen las Tablas que provienen del concepto de entidades; y a su vez dentro de las tablas tenemos las tuplas o renglones.
 
-
+### Base de datos en la vida real
+Existen diferentes soluciones para aplicaciones modernas.
+- las bases de datos SQL logró durante muchos años solucionar problemas del mundo, como reportes, querys, almacenas, incluso facebook utilizó MySQL, pero cuando existen millones de datos o billones, las bases de datos SQL tienden a ser poco óptimas, por lo que se generó el término Big Data
 
 
