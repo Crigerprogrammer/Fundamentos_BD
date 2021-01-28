@@ -247,3 +247,7 @@ Es necesario tener una buena sensibilidad por entender el negocio, sus necesidad
 ## Machine Learning
 Machine Learning tiene significados que varían. Es una serie de técnicas que involucran la inteligencia artificial y la detección de patrones.
 Machine learning para datos tiene un gran campo de acción y es un paso más allá del business intelligence.
+
+## Data Science
+Data Science es aplicar todas las técnicas de procesamiento de datos. En su manera más pura tiene que ver con gente con un background de estadísticas y ciencias duras.
+
