@@ -232,3 +232,6 @@ A diferencia de big data, big data busca solución para devolver datos en milís
 
 Puede almacenar muchos datos (historico) 
 Un datawarehouse en ocasiones no es la mejor solución si se pretende realizar consultas, pero en ocasiones se tiene la intención de consultar información histórica.
+
+## Data Mining
+Es una disciplina que se dedica a minar datos. a extraerlos de donde sea que estén (archivos muertos, bases de datos, actual, etc)
