@@ -249,4 +249,4 @@ Machine Learning tiene significados que varían. Es una serie de técnicas que i
 Machine learning para datos tiene un gran campo de acción y es un paso más allá del business intelligence.
 
 ## Data Science
-Data Science es aplicar todas las técnicas de procesamiento de datos. En su manera más pura tiene que ver con gente con un background de estadísticas y ciencias duras...
+Data Science es aplicar todas las técnicas, de procesamiento de datos. En su manera más pura tiene que ver con gente con un background de estadísticas y ciencias duras.
